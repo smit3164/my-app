@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Simple Edit for VCS
         </a>
       </header>
     </div>
